@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Tanmya 👋
 
-<!--
-**tanmyamahajan/tanmyamahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Java | Spring Boot | React | DSA
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Guru Nanak Dev University, currently focused on building strong fundamentals in Data Structures & Algorithms and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical applications while learning technologies such as Java, Spring Boot, React, and PostgreSQL.
+
+### 🚀 Currently Working On
+
+- Building full-stack applications with React and Spring Boot
+- Strengthening Data Structures & Algorithms
+- Learning backend development and REST APIs
+- Exploring AI-assisted development
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java, C++, JavaScript
+- **Frontend:** HTML, CSS, React
+- **Backend:** Spring Boot, REST APIs
+- **Database:** PostgreSQL
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code
